@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Noah, a hobby developer just starting my codin
 - Web development fundamentals
 
 ### 📫 How to reach me ...
-![Discord](https://img.shields.io/badge/Discord-Alpramann%239876-7289DA?logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Alpramann-7289DA?logo=discord&logoColor=white)
 
 ---
 
