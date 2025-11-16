@@ -29,4 +29,4 @@
 
 ### 📊 **GitHub Stats**
 
-![NoahSKipp's GitHub stats](https://vercel-readme-noahskipps-projects.vercel.app/api?username=NoahSkipp&show_icons=true&theme=dark) [![Top Langs](https://vercel-readme-noahskipps-projects.vercel.app/api/top-langs/?username=NoahSkipp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![NoahSKipp's GitHub stats](https://github-readme-stats-six-sable-53.vercel.app/api?username=NoahSkipp&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats-six-sable-53.vercel.app/api/top-langs/?username=NoahSkipp&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
